@@ -1,3 +1,3 @@
 # typing-with-typeScript
--------
-###creating typing animation library
+
+### creating typing animation library
